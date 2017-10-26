@@ -14,4 +14,4 @@
 	* [wx.request 的缓存问题](201710/01.md)
 
 * dvajs
-	* [[Bug] dva@2.x 多实例自动补全 namespace](201710/02.md)
+	* [dva2.x 多实例自动补全 namespace](201710/02.md)
